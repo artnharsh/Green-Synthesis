@@ -7,6 +7,8 @@ Green Synthesis focuses on sustainable practices for material synthesis using en
 
 ## Technologies Used
 - HTML
+- CSS
+- JavaScript
 
 ## Installation
 1. Clone the repository:  
